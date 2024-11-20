@@ -1,2 +1,2 @@
 # Proyecto-Algoritmos-
-Triage de  Urgencias ( implementacion de pilas y Colas) 
+Triage de  Urgencias ( Colas de  prioridad y funciones hash ) 
